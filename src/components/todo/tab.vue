@@ -48,9 +48,7 @@ export default {
          this.$emit('clearAllCompleted');
       }
    },
-   components: {
-
-   }
+   components: {}
 }
 </script>
 

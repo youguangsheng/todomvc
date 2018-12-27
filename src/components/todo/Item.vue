@@ -5,7 +5,7 @@
                 class="toggle"
         />
        <label>{{todo.content}}</label>
-       <button class="destroy" @click="deletedTodo"></button>
+       <button class="destroy" @click.stop="deletedTodo"></button>
    </div>
 </template>
 

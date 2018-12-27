@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # todo-mvc
-=======
-# todomvc
->>>>>>> init
 
 ## Project setup
 ```

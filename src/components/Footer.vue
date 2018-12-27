@@ -2,7 +2,7 @@
    <div class="main-footer">
        <span>
            author：{{ author }}
-       </span>
+       </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <span>
            email：{{ email }}
        </span>
@@ -14,12 +14,10 @@ export default {
    data() {
      return {
          author:"yougs",
-         email:"ygsit@163.com"
+         email:"ygs_it@163.com"
      }
    },
-   components: {
-
-   }
+   components: {}
 }
 </script>
 
